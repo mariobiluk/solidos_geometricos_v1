@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "Mario Biluk",
   "license": "MIT",
-  "description": "Programa para cálculo de sólidos geométricos"
+  "description": "Programa para cálculo de sólidos geométricos",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
 }
